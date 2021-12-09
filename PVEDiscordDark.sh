@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/Weilbyte/PVEDiscordDark
+# https://github.com/rightontron/PVEDiscordDark.git
 
 umask 022
 
