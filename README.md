@@ -21,15 +21,15 @@ Or this oneliner
 bash <(curl -s https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh ) install
 ```
 
-## rightontron (fork) Installation
+## RIGHTONTRON (fork) Installation
 
 ```
-~# wget https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh
+~# wget https://raw.githubusercontent.com/rightontron/PVEDiscordDark/master/PVEDiscordDark.sh
 ~# bash PVEDiscordDark.sh install
 ```
 Or this oneliner
 ```
-bash <(curl -s https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh ) install
+bash <(curl -s https://raw.githubusercontent.com/rightontron/PVEDiscordDark/master/PVEDiscordDark.sh ) install
 ```
 
 ## Uninstallation
